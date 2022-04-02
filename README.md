@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Hannah!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on my final 4 week project with School of Code
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on getting my first role as a software engineer.
+- 🌱 I’m currently learning React Native and Python!
 - 📫 How to reach me: hannahwhelan256@gmail.com
 - 💬 Check out my LinkedIn [here](https://www.linkedin.com/in/hannah-whelan-196666224/)
 

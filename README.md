@@ -8,5 +8,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HWhelan256&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/tinytecher/github-readme-stats"><img alt="Hannah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hwhelan256&theme=algolia&show_icons=true&count_private=true" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWhelan256&hide=Shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

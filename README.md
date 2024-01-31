@@ -2,7 +2,7 @@
 
 - 🔭 I'm an Associate Developer for AND Digital after completing School of Code Bootcamp.
 - 😸 My work [GitHub account](https://github.com/hannah-whelan)
-- 📫 How to reach me: hannahwhelan256@gmail.com
+- 📫 How to reach me: hannahwhelan256@gmail.com or hannah.whelan@and.digital
 - 💬 Check out my LinkedIn [here](https://www.linkedin.com/in/hannah-k-whelan)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HWhelan256&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
